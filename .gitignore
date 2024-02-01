@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: Grunt
+node_modules/
+.Gruntfile.js
+.history/
+
+# Optional: Yarn
+yarn-error.log
+yarn.lock
+yarn-debug.log*
+
+# Optional: npm
+npm-debug.log*
+node_modules/
+npm-debug.log
